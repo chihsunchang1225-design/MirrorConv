@@ -6,13 +6,20 @@
 
 This is the official PyTorch implementation of **MirrorConv**, a lightweight convolutional operator designed for Extreme Lightweight Vision Models. 
 
-## 🚀 Installation
+### Installation
 
-For the fastest setup, you can install MirrorConv directly from GitHub using `pip`:
+For the fastest setup, you can install MirrorConv directly from GitHub using `pip`. Choose one of the methods below:
 
+**Method 1: Using git (Recommended)**
 ```bash
 pip install git+https://github.com/chihsunchang1225-design/MirrorConv.git
 ```
+
+**Method 2: Direct download (If you don't have git installed)**
+```bash
+pip install https://github.com/chihsunchang1225-design/MirrorConv/archive/refs/heads/main.zip
+```
+
 *(Note: We recommend installing it within a virtual environment.)*
 
 ## 💻 Quick Start
@@ -173,11 +180,18 @@ If you find MirrorConv useful in your research, we kindly request that you cite 
 
 ## 🚀 安裝方式
 
-為了最快速地開始使用，您可以直接透過 `pip` 從 GitHub 安裝 MirrorConv：
+為了最快速地開始使用，您可以直接透過 `pip` 從 GitHub 安裝 MirrorConv。請選擇以下其中一種方式：
 
+**方法一：使用 git 安裝（推薦）**
 ```bash
-pip install git+https://github.com/chihsunchang1225-design/MirrorConv.git
+pip install git+[https://github.com/chihsunchang1225-design/MirrorConv.git](https://github.com/chihsunchang1225-design/MirrorConv.git)
 ```
+
+**方法二：直接下載安裝（如果您尚未安裝 git）**
+```bash
+pip install [https://github.com/chihsunchang1225-design/MirrorConv/archive/refs/heads/main.zip](https://github.com/chihsunchang1225-design/MirrorConv/archive/refs/heads/main.zip)
+```
+
 *（註：強烈建議在虛擬環境中進行安裝。）*
 
 ## 💻 快速開始
