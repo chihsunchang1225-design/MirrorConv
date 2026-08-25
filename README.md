@@ -11,7 +11,7 @@ This is the official PyTorch implementation of **MirrorConv**, a lightweight con
 For the fastest setup, you can install MirrorConv directly from GitHub using `pip`:
 
 ```bash
-pip install git+[https://github.com/chihsunchang1225-design/MirrorConv.git](https://github.com/chihsunchang1225-design/MirrorConv.git)
+pip install git+https://github.com/chihsunchang1225-design/MirrorConv.git
 ```
 *(Note: We recommend installing it within a virtual environment.)*
 
@@ -176,7 +176,7 @@ If you find MirrorConv useful in your research, we kindly request that you cite 
 為了最快速地開始使用，您可以直接透過 `pip` 從 GitHub 安裝 MirrorConv：
 
 ```bash
-pip install git+[https://github.com/chihsunchang1225-design/MirrorConv.git](https://github.com/chihsunchang1225-design/MirrorConv.git)
+pip install git+https://github.com/chihsunchang1225-design/MirrorConv.git
 ```
 *（註：強烈建議在虛擬環境中進行安裝。）*
 
