@@ -1,0 +1,46 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "MirrorConv"
+version = "1.0.0"
+description = "MirrorConv: Parameter-Shared Staggered Topology Operator"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [
+    {name = "Chi-Hsun Chang", email = "chihsunchang1225@gmail.com"}
+]
+
+keywords = [
+    "lightweight-convolution",
+    "parameter-sharing",
+    "staggered-topology",
+    "computer-vision",
+    "aiot",
+    "edge-ai",
+    "deep-learning",
+    "pytorch",
+    "lightweight",
+    "convolution"
+]
+
+classifiers = [
+    "Development Status :: 5 - Production/Stable",       
+    "Intended Audience :: Science/Research",             
+    "Intended Audience :: Developers",                   
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",                
+    "Programming Language :: Python :: 3",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence"
+]
+
+dependencies = [
+    "torch>=2.0.0",
+    "numpy>=1.21.0,<2.0.0"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/chihsunchang1225-design/MirrorConv"
+"Bug Tracker" = "https://github.com/chihsunchang1225-design/MirrorConv/issues"
